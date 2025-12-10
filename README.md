@@ -1,38 +1,32 @@
-# Hi, I'm Demi 👋  
-### Data Analyst | BI Developer  
+# Hi, I'm Demi 👋
 
-I build clean, interactive dashboards and turn raw data into business insights using **Power BI, SQL, and Excel**.  
-Focused on solving real problems, improving data quality, and helping businesses make smart decisions.
+### Business-Focused Data Analyst | BI Developer
 
----
-
-## 🔧 Tools & Technologies  
-- **Power BI** (DAX, Power Query, Data Modeling)  
-- **SQL** (MySQL)  
-- **Excel** (Cleaning, Analysis, Pivot Tables)  
-- GitHub • Markdown  
+I build clean, interactive dashboards and transform raw data into actionable business insights. My focus is leveraging data to solve real-world problems and drive measurable impact.
 
 ---
 
-## 📊 Featured Projects  
-Here are some of my ongoing and upcoming portfolio projects:
+### 🛠️ Core Toolkit
 
-- **Sales Performance Dashboard – Power BI**  
-- **Product Sales Analysis – SQL Project**  
-- **Retail Revenue Insights – BI Project**  
-- **Data Cleaning Challenge – Excel**
-
-*(More projects coming — stay tuned!)*
+* **SQL (Advanced):** Data extraction, aggregation, and performance tuning (Demonstrated by my FastFood Sales EDA project).
+* **Business Intelligence:** Power BI (Expert in visualization and modeling).
+* **Data Manipulation:** Excel (Advanced VLOOKUP/Pivot Tables).
+* **Other:** Data Modeling, Storytelling, Stakeholder Communication.
 
 ---
 
-## 🚀 What I'm Currently Working On  
-- Advanced SQL for analytics  
-- Power BI end-to-end projects  
-- Data modeling + DAX  
-- Building my full portfolio  
+### 🚀 Featured Project
+
+**[FastFood Sales Revenue Optimization](https://github.com/ooluwatosinmile/FastFood_Revenue_Optimization)**
+
+* **Goal:** Identify high-impact strategies to boost revenue across 5 European cities.
+* **Key Result:** Used SQL Multivariate Analysis to isolate a **70% revenue drop every Sunday** and proposed a strategic plan centered on optimizing high-margin product sales through key managers.
 
 ---
+
+### 💡 What I Bring
+
+I translate complex data findings into simple, impactful strategies that help businesses make smarter, profitable decisions.
 
 ## 📬 Contact  
 **LinkedIn:www.linkedin.com/in/tosinmile-demilade-5ba579200** 
