@@ -31,7 +31,7 @@ I translate complex data findings into simple, impactful strategies that help bu
 ## 📬 Contact  
 **LinkedIn:www.linkedin.com/in/demitheanalyst** 
 **Email:Ooluwatosinmile@gmail.com** 
-**Portfolio:odemilade.carrd.co**
+**Portfolio:www.odemilade.carrd.co**
 
 ---
 
